@@ -49,7 +49,7 @@ const Projects = () => {
                             <div className="relative h-64 overflow-hidden">
                                 <ImageWithSkeleton
                                     src={project.image}
-                                    alt={`${project.title} - Aldan Prayogi Project`}
+                                    alt={`${project.title} - Safania Putri Project`}
                                     className="w-full h-full group-hover:scale-110 transition-transform duration-700"
                                 />
                                 {project.year && (

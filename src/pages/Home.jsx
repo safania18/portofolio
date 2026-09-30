@@ -23,7 +23,7 @@ export default function Home() {
                 <Helmet>
                     <title>{t('profile.name')} | {t('profile.role')}</title>
                     <meta name="description" content={t('profile.description')} />
-                    <meta name="keywords" content="Aldan Prayogi, Automation Engineer, Software Engineer, Portfolio, YOLOv8, Image Processing, ITS, Toyota Motor Manufacturing Indonesia" />
+                    <meta name="keywords" content="Safania Putri, Automation Engineer, Software Engineer, Portfolio, YOLOv8, Image Processing, ITS, Toyota Motor Manufacturing Indonesia" />
 
                     {/* Open Graph / Facebook */}
                     <meta property="og:type" content="website" />

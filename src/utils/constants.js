@@ -19,7 +19,7 @@ const cogniva = Object.entries(
   .map(([, img]) => img.default);
 
 export const PROFILE_DATA = {
-  name: "Aldan Prayogi",
+  name: "Safania Putri",
   role: "Automation & Control Systems Engineer",
   email: "prayogialdan@gmail.com",
   socials: [
@@ -84,7 +84,7 @@ const en = {
     projects_completed: "Projects Completed",
   },
   profile: {
-    name: "Aldan Prayogi",
+    name: "Safania Putri",
     role: "Automation & Control Systems Engineer",
     description:
       "Electrical Automation Engineer with hands-on experience in industrial manufacturing, electrical systems, instrumentation, and automation. Skilled in troubleshooting electrical and control systems, PLC programming, instrumentation, sensor integration, preventive maintenance, and root cause analysis. Experienced in supporting industrial equipment and production processes through automation, monitoring, and data-driven solutions. Familiar with manufacturing operations and committed to maintaining equipment reliability while prioritizing safety, quality, and productivity.",
@@ -554,7 +554,7 @@ const id = {
     projects_completed: "Proyek Selesai",
   },
   profile: {
-    name: "Aldan Prayogi",
+    name: "Safania Putri",
     role: "Automation Engineer",
     description:
       "Seorang profesional yang penuh semangat dengan kemampuan kolaborasi yang kuat dan pengalaman bekerja dalam tim lintas disiplin. Kemampuan mendengarkan yang kuat mendukung pemahaman mendalam tentang beragam perspektif dan kebutuhan tim. Percaya bahwa kerja tim yang efektif dan komunikasi yang jelas sangat penting untuk mencapai hasil yang luar biasa, dengan komitmen untuk berkontribusi dan terus belajar demi mencapai tujuan bersama.",

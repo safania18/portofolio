@@ -85,7 +85,7 @@ const Hero = () => {
                         {/* The Image - Peeking out of the top */}
                         <ImageWithSkeleton
                             src={myPhoto}
-                            alt={`Aldan Prayogi - ${PROFILE_DATA.role}`}
+                            alt={`Safania Putri - ${PROFILE_DATA.role}`}
                             className="relative z-10 w-full h-full transform transition-all duration-500"
                             skeletonClassName="rounded-[3rem]"
                             style={{
